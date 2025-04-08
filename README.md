@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Daniel Flores Rojas a passionate and committed **Software Engineering student** at Tecnológico de Monterrey, focused on developing scalable web and mobile applications. I have experience in building interactive user interfaces and backend services using **React**, **Node.js**, and **Python**. I am always looking to improve my coding skills and learn new technologies. Currently, I am working on a mobile app project (OcoYucanGo) to promote environmental awareness and a social service management platform for my university.
+# 👋 Hi, I'm Daniel Flores Rojas!
+A passionate and committed **Software Engineering student** at Tecnológico de Monterrey, focused on developing scalable web and mobile applications. I have experience in building interactive user interfaces and backend services using **React**, **Node.js**, and **Python**. I am always looking to improve my coding skills and learn new technologies. Currently, I am working on a mobile app project (OcoYucanGo) to promote environmental awareness and a social service management platform for my university.
 
 
 🎓 **Computational Technologies Engineering Student** | Tecnológico de Monterrey  
